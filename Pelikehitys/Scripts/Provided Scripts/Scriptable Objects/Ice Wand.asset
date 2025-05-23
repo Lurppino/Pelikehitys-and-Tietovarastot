@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ae4e3f1ab3993d4abf253844b9768cd, type: 3}
+  m_Name: Ice Wand
+  m_EditorClassIdentifier: 
+  weaponName: Ice Wand
+  weaponType: 2
+  specialAbility: 'Hidastaa vihollisia '
+  damage: 30
+  range: 12
+  icon: {fileID: 0}
